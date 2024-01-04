@@ -1,7 +1,5 @@
 # SideSwap client
-
 SideSwap is released under the terms of the GNU General Public License. See [LICENSE](LICENSE) for more information.
-
 SideSwap swap protocol: [doc/protocol.md](doc/protocol.md).
 
 Client build instructions: [doc/build.md](doc/build.md).
